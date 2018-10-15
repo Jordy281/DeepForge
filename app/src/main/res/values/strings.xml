@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeepForge</string>
+    <string name="title_note_detail">Boo Ya</string>
+    <string name="GifHolder">holder for gifs</string>
+    <string name="title_activity_finger_paint">FingerPaintActivity</string>
+    <string name="title_activity_doodle">DoodleActivity</string>
+    <string name="permission_necessary">Check your permissions homeboy</string>
+    <string name="storage_permission_is_encessary_to_wrote_event">storage_permission_is_encessary_to_wrote_event</string>
+</resources>
